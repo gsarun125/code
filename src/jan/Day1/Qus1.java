@@ -6,6 +6,7 @@ Given an array of integers, replace every element with the next greatest element
 last element, replace it with -1. For example, if the array is {16, 17, 4, 3, 5, 2}, then it
 should be modified to {17, 5, 5, 5, 2, -1}.
  */
+
 public class Qus1 {
     public static void main(String[] args) {
         int arr[] = {16, 17, 4, 3, 5, 5, 2};
